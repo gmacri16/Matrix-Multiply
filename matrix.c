@@ -1,7 +1,8 @@
 /*
 Gregory Macri
 
-This program is used to generate matrices of a specified size, assign each index in the matrix a random number between one and ten, multiply those matrices a specified number of times and produce how long it took to multiply them in seconds.
+This program is used to generate matrices of a specified size, assign each index in the matrix a random number 
+between one and ten, multiply those matrices a specified number of times and produce how long it took to multiply them in seconds.
 */
 
 #include <stdio.h>
